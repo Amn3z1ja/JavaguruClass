@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0da21530-88ab-40df-a0c0-4dffe360a7cf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Test/lv/javaguru/classworks/lesson4/VowelChecker/VowelCheckerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/lv/javaguru/classworks/lesson5/BasicCounterTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lv/javaguru/classworks/lesson5/BasicCounter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lv/javaguru/classworks/lesson6/PlayWithLoops.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lv/javaguru/classworks/lesson6/PrimeNumberLookup.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVAGURU CLASS.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JAVAGURU CLASS.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVAGURU CLASS/lv/javaguru/classworks/lesson4/VowelChecker/VowelChecker.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JAVAGURU CLASS/lv/javaguru/classworks/lesson4/VowelChecker/VowelChecker.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -155,7 +148,19 @@
       <option name="presentableId" value="Default" />
       <updated>1580319296389</updated>
     </task>
+    <task id="LOCAL-00001" summary="6 lekcija">
+      <created>1582977220217</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1582977220217</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="6 lekcija" />
+    <option name="LAST_COMMIT_MESSAGE" value="6 lekcija" />
   </component>
   <component name="WindowStateProjectService">
     <state x="488" y="72" key="#com.intellij.ide.util.MemberChooser" timestamp="1582737755254">
@@ -170,10 +175,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="389" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728@0.0.1366.728" timestamp="1581074994734" />
-    <state x="274" y="0" key="CommitChangelistDialog2" timestamp="1582977161070">
+    <state x="274" y="0" key="CommitChangelistDialog2" timestamp="1582977294766">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="274" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1582977161070" />
+    <state x="274" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1582977294766" />
     <state width="1322" height="138" key="GridCell.Tab.0.bottom" timestamp="1582744905749">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -194,6 +199,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="348" y="62" key="NewModule_or_Project.wizard/0.0.1366.728@0.0.1366.728" timestamp="1581530535838" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1582977227945">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1582977227945" />
     <state x="378" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1582976796983">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -226,5 +235,19 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1581533274380" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>jar://C:/Program Files/Java/jdk1.8.0_241/src.zip!/java/lang/Object.java</url>
+          <line>147</line>
+          <properties class="java.lang.Object" method="equals">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
