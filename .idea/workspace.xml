@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0da21530-88ab-40df-a0c0-4dffe360a7cf" name="Default Changelist" comment="" />
+    <list default="true" id="0da21530-88ab-40df-a0c0-4dffe360a7cf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Test/lv/javaguru/classworks/lesson4/VowelChecker/VowelCheckerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/lv/javaguru/classworks/lesson5/BasicCounterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lv/javaguru/classworks/lesson5/BasicCounter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lv/javaguru/classworks/lesson6/PlayWithLoops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lv/javaguru/classworks/lesson6/PrimeNumberLookup.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVAGURU CLASS.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JAVAGURU CLASS.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVAGURU CLASS/lv/javaguru/classworks/lesson4/VowelChecker/VowelChecker.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JAVAGURU CLASS/lv/javaguru/classworks/lesson4/VowelChecker/VowelChecker.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,31 +20,50 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1X4xieiR7IRQDIjTWHmqHD98Gih" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="extract.method.default.visibility" value="private" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="lv.javaguru.classworks.lesson6" />
+      <recent name="lv.javaguru.classworks.lesson5" />
+      <recent name="lv.javaguru.classworks.lesson4.VowelChecker" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="lv.javaguru.classworks.lesson2" />
     </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.PlayWithConditionals">
-    <configuration name="DogTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Examples.DogTest" />
+  <component name="RunManager" selected="JUnit.PrimeNumberLookupTest.shouldPrintAllPrimeNumberWithinInterval">
+    <configuration name="PlayWithLoops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lv.javaguru.classworks.lesson6.PlayWithLoops" />
       <module name="JAVAGURU CLASS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Examples.*" />
+          <option name="PATTERN" value="lv.javaguru.classworks.lesson6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -43,65 +71,76 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DogTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Examples.DogTest2" />
+    <configuration name="CandyBoxTest.shouldNotBeEqualsWhenThatIsNotNull" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JAVAGURU CLASS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Examples.*" />
+          <option name="PATTERN" value="lv.javaguru.classworks.lesson5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="lv.javaguru.classworks.lesson5" />
+      <option name="MAIN_CLASS_NAME" value="lv.javaguru.classworks.lesson5.CandyBoxTest" />
+      <option name="METHOD_NAME" value="shouldNotBeEqualsWhenThatIsNotNull" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PlayWithConditionals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lv.javaguru.classworks.lesson4.PlayWithConditionals" />
+    <configuration name="PrimeNumberLookupTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JAVAGURU CLASS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lv.javaguru.classworks.lesson4.*" />
+          <option name="PATTERN" value="lv.javaguru.classworks.lesson6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="lv.javaguru.classworks.lesson6" />
+      <option name="MAIN_CLASS_NAME" value="lv.javaguru.classworks.lesson6.PrimeNumberLookupTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PlyWithIf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lv.javaguru.classworks.lesson4.PlyWithIf" />
+    <configuration name="PrimeNumberLookupTest.shouldPrintAllPrimeNumberWithinInterval" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JAVAGURU CLASS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lv.javaguru.classworks.lesson4.*" />
+          <option name="PATTERN" value="lv.javaguru.classworks.lesson6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="lv.javaguru.classworks.lesson6" />
+      <option name="MAIN_CLASS_NAME" value="lv.javaguru.classworks.lesson6.PrimeNumberLookupTest" />
+      <option name="METHOD_NAME" value="shouldPrintAllPrimeNumberWithinInterval" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PlyWithSwitch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lv.javaguru.classworks.lesson4.PlyWithSwitch" />
+    <configuration name="PrimeNumberLookupTest.shoulddNotPrimeNumber" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JAVAGURU CLASS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lv.javaguru.classworks.lesson4.*" />
+          <option name="PATTERN" value="lv.javaguru.classworks.lesson6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="lv.javaguru.classworks.lesson6" />
+      <option name="MAIN_CLASS_NAME" value="lv.javaguru.classworks.lesson6.PrimeNumberLookupTest" />
+      <option name="METHOD_NAME" value="shoulddNotPrimeNumber" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PlayWithConditionals" />
-        <item itemvalue="Application.PlyWithIf" />
-        <item itemvalue="Application.PlyWithSwitch" />
-        <item itemvalue="Application.DogTest2" />
-        <item itemvalue="Application.DogTest (1)" />
+        <item itemvalue="JUnit.PrimeNumberLookupTest.shouldPrintAllPrimeNumberWithinInterval" />
+        <item itemvalue="JUnit.PrimeNumberLookupTest" />
+        <item itemvalue="JUnit.PrimeNumberLookupTest.shoulddNotPrimeNumber" />
+        <item itemvalue="Application.PlayWithLoops" />
+        <item itemvalue="JUnit.CandyBoxTest.shouldNotBeEqualsWhenThatIsNotNull" />
       </list>
     </recent_temporary>
   </component>
@@ -119,46 +158,70 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="488" y="72" key="#com.intellij.ide.util.MemberChooser" timestamp="1582737755254">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="72" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1582737755254" />
+    <state x="479" y="222" width="407" height="292" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1582741797367">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="479" y="222" width="407" height="292" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1582741797367" />
     <state x="389" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1581074994734">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="389" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728@0.0.1366.728" timestamp="1581074994734" />
-    <state width="1322" height="119" key="GridCell.Tab.0.bottom" timestamp="1581536794527">
+    <state x="274" y="0" key="CommitChangelistDialog2" timestamp="1582977161070">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="119" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1581536794527" />
-    <state width="1322" height="119" key="GridCell.Tab.0.center" timestamp="1581536794526">
+    <state x="274" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1582977161070" />
+    <state width="1322" height="138" key="GridCell.Tab.0.bottom" timestamp="1582744905749">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="119" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1581536794526" />
-    <state width="1322" height="119" key="GridCell.Tab.0.left" timestamp="1581536794526">
+    <state width="1322" height="138" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1582744905749" />
+    <state width="1322" height="138" key="GridCell.Tab.0.center" timestamp="1582744905748">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="119" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1581536794526" />
-    <state width="1322" height="119" key="GridCell.Tab.0.right" timestamp="1581536794526">
+    <state width="1322" height="138" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1582744905748" />
+    <state width="1322" height="138" key="GridCell.Tab.0.left" timestamp="1582744905748">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="119" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1581536794526" />
+    <state width="1322" height="138" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1582744905748" />
+    <state width="1322" height="138" key="GridCell.Tab.0.right" timestamp="1582744905748">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="138" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1582744905748" />
     <state x="348" y="62" key="NewModule_or_Project.wizard" timestamp="1581530535838">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="348" y="62" key="NewModule_or_Project.wizard/0.0.1366.728@0.0.1366.728" timestamp="1581530535838" />
-    <state x="378" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1581939468709">
+    <state x="378" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1582976796983">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="378" y="186" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1581939468709" />
-    <state x="413" y="118" width="540" height="500" key="extract.method.dialog" timestamp="1581533967693">
+    <state x="378" y="186" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1582976796983" />
+    <state x="383" y="250" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1582131175767">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="413" y="118" width="540" height="500" key="extract.method.dialog/0.0.1366.728@0.0.1366.728" timestamp="1581533967693" />
+    <state x="383" y="250" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1366.728@0.0.1366.728" timestamp="1582131175767" />
+    <state x="492" y="280" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1582741505536">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="492" y="280" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1582741505536" />
+    <state x="415" y="60" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1582741804373">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="415" y="60" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1366.728@0.0.1366.728" timestamp="1582741804373" />
+    <state x="413" y="118" width="540" height="500" key="extract.method.dialog" timestamp="1582137570953">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="118" width="540" height="500" key="extract.method.dialog/0.0.1366.728@0.0.1366.728" timestamp="1582137570953" />
     <state x="425" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1580927955864">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="425" y="0" key="refactoring.ChangeSignatureDialog/0.0.1366.728@0.0.1366.728" timestamp="1580927955864" />
-    <state x="339" y="157" key="run.anything.popup" timestamp="1581073806649">
+    <state x="339" y="157" key="run.anything.popup" timestamp="1582136102786">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="339" y="157" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1581073806649" />
+    <state x="339" y="157" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1582136102786" />
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1581533274380">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
